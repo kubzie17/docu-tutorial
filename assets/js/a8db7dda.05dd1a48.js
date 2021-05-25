@@ -1,1 +1,0 @@
-(self.webpackChunkdocu_tutorial=self.webpackChunkdocu_tutorial||[]).push([[345],{6353:function(l){"use strict";l.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/docu-tutorial/blog/welcome"},{"title":"Hello","permalink":"/docu-tutorial/blog/hello-world"},{"title":"Hola","permalink":"/docu-tutorial/blog/hola"}]}')}}]);
